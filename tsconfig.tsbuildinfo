@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/controlpanel.tsx","./src/components/promptpreppage.tsx","./src/components/statsstrip.tsx","./src/components/taskdetaildrawer.tsx","./src/components/tasktable.tsx","./src/components/topbar.tsx"],"version":"5.9.3"}
